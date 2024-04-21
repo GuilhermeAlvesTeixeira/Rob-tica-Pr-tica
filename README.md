@@ -9,11 +9,10 @@ A página de robótica é uma iniciativa para compartilhar conhecimento e recurs
 
 ## Recursos
 
-- Introdução à robótica
-- Tutoriais práticos
-- Exemplos de projetos
-- Recursos de aprendizagem recomendados
-
+- Página Inicial (Home)
+- Página de Projetos
+- Materiais de Apoio
+- Contato
 
 ## Contato
 
