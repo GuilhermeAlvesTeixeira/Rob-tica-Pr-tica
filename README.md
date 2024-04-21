@@ -10,16 +10,16 @@ A página de robótica é uma iniciativa para compartilhar conhecimento e recurs
 ## Recursos
 
 ### Página Inicial (Home)
-<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/6f3c8635-4b47-484a-80cc-518a5dd8ae65" width="500" height="300">
+<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/6f3c8635-4b47-484a-80cc-518a5dd8ae65" width="600" height="350">
 
 ### Página de Projetos
-<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/793bd6c6-1378-41f2-9cd5-aabff5698f0c" width="500" height="300">
+<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/793bd6c6-1378-41f2-9cd5-aabff5698f0c" width="600" height="350">
 
 ### Materiais de Apoio
-<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/6c38d1ba-fbca-4e80-a3a1-2db5ffc2aa1c" width="500" height="250">
+<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/6c38d1ba-fbca-4e80-a3a1-2db5ffc2aa1c" width="600" height="200">
 
 ### Contato
-<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/0575e7a2-94da-47f9-b9b6-4696296ebd37" width="500" height="250">
+<img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/0575e7a2-94da-47f9-b9b6-4696296ebd37" width="600" height="300">
 
 ## Contato
 
