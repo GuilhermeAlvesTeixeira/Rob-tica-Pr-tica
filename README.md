@@ -21,6 +21,3 @@ A página de robótica é uma iniciativa para compartilhar conhecimento e recurs
 ### Contato
 <img src="https://github.com/GuilhermeAlvesTeixeira/Robotica-Pratica/assets/117122019/0575e7a2-94da-47f9-b9b6-4696296ebd37" width="600" height="300">
 
-## Contato
-
-Para mais informações sobre o projeto ou para entrar em contato, sinta-se à vontade para abrir uma issue neste repositório ou enviar um e-mail para [guilhermealvesteixeira@gmail.com](mailto:guilhermealvesteixeirasilva@gmail.com).
